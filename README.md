@@ -1,3 +1,4 @@
+![logo](https://github.com/Junaid-Blouch/Junaid-Blouch/blob/main/Muhammad%20Junaid%20(1).png)
 <h1 align="center">Hi 👋, I'm Muhammad Junaid</h1>
 <h3 align="center">Machine Learning Enthusiast | Future AI Engineer from Pakistan</h3>
 
